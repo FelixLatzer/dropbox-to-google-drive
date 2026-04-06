@@ -9,6 +9,7 @@ drive_token.json
 drop_box_token.json
 drive_credentials.json
 drive_credentials_f.json
+secrets/
 
 # C extensions
 *.so
