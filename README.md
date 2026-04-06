@@ -27,8 +27,8 @@ This script automatically transfers files from Dropbox to Google Drive, helping 
 # 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/FelixLatzer/dropbox-to-google-drive.git
+cd dropbox-to-google-drive
 
 python3 -m venv venv
 source venv/bin/activate
